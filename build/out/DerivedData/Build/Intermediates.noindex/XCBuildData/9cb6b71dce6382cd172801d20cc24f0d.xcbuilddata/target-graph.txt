@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'swift_extension_demo' in project 'swift_extension_demo' (no dependencies)
