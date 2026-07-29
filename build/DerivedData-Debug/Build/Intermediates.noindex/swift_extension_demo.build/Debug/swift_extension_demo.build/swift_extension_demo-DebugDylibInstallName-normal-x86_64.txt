@@ -1,0 +1,1 @@
+@rpath/swift_extension_demo.debug.dylib
